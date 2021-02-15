@@ -21,12 +21,12 @@ The steps are:
 ## Selected hyperparameters:
 
 ```
-  num_heads              INT      Number of attention heads                           8
-  hidden_units           INT      Dimension of hidden units for each head             32
-  n_layers               INT      Number of GNN layers                                2
-  learning_rate          FLOAT    Learning rate                                       0.001
-  dropout                FLOAT     Dropout rate                                       0.5
-  residual               BOOL      Whether to use the residual connection             True
+  num_heads              INT      Number of attention heads                          8
+  hidden_units           INT      Dimension of hidden units for each head            32
+  n_layers               INT      Number of GNN layers                               2
+  learning_rate          FLOAT    Learning rate                                      0.001
+  dropout                FLOAT    Dropout rate                                       0.5
+  residual               BOOL     Whether to use the residual connection             True
 ```
 
 Hyperparameters could be found in the ```args``` variable in ```train_ogbn_mag.py``` file and you can adjust them when training the model.
