@@ -5,7 +5,7 @@ The description of "Hybrid Micro/Macro Level Convolution for Heterogeneous Graph
 The steps are:
 
   1. run ```python preprocess_ogbn_mag.py``` to preprocess the original ogbn_mag dataset. 
-  As the OGB-MAG dataset only has input features for paper nodes, ccfor all the other types of nodes (author, affiliation, topic), we use the metapath2vec model to generate their structural features. 
+  As the OGB-MAG dataset only has input features for paper nodes, for all the other types of nodes (author, affiliation, field), we use the metapath2vec model to generate their structural features. 
 
   2. run ```python train_ogbn_mag.py``` to train the model.
 
