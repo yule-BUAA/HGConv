@@ -15,6 +15,7 @@ The steps are:
 - [PyTorch 1.7.0](https://pytorch.org/)
 - [DGL 0.5.2](https://www.dgl.ai/)
 - [PyTorch Geometric 1.6.1](https://pytorch-geometric.readthedocs.io/en/latest/)
+- [OGB 1.2.4](https://ogb.stanford.edu/docs/home/)
 - [tqdm](https://github.com/tqdm/tqdm)
 - [numpy](https://github.com/numpy/numpy)
 
