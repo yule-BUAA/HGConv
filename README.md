@@ -1,7 +1,7 @@
 # Hybrid Micro/Macro Level Convolution for Heterogeneous Graph Learning
 
-This experiment is based on stanford OGB (1.2.4) benchmark. 
-The description of "Hybrid Micro/Macro Level Convolution for Heterogeneous Graph Learning" is [avaiable here](https://arxiv.org/abs/2012.14722). 
+This experiment is based on Stanford OGB (1.2.4) benchmark. 
+The description of "Hybrid Micro/Macro Level Convolution for Heterogeneous Graph Learning" is [available here](https://arxiv.org/abs/2012.14722). 
 The steps are:
 
   1. run ```python preprocess_ogbn_mag.py``` to preprocess the original ogbn_mag dataset. 
